@@ -1,5 +1,15 @@
-*{
-    padding: 0;
-    margin: 0;
-    background-color: aquamarine;
-}
+.container{
+    background:linear-gradient(to bottom, #16325B, #227B94);
+    color: white;
+    border-radius: 1rem;
+  }
+  body{
+    font-size: 1.5em;
+  }
+  .custom-btn {
+    width: 150px; /* Adjust width */
+    height: 50px; /* Adjust height */
+    font-size: 1.5em; /* Adjust font size */
+  }
+  
+  
